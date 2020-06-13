@@ -1,0 +1,24 @@
+.span,img{
+  margin-right:18%;
+  height:35%;
+  width:35%;
+  float:right;
+}
+
+.container-fluid{
+  width:70%;
+  height:auto;
+  margin-top:15px;
+  overflow: hidden;
+}
+
+.content-heading,h1{
+  margin-left: 2%;
+  font-family:sans-serif;
+
+}
+
+form label.required:after{
+  color: red;
+  content: "*";
+}
